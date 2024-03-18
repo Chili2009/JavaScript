@@ -13,7 +13,7 @@ let house;
     } else {
     house = "Ravenclaw";}
 
-document.querySelector('#target').innerHTML = (`${studentName}, you are in ${house}`);
+tylypahka.innerHTML = (`${studentName}, you are in ${house}`);
 
 
 
